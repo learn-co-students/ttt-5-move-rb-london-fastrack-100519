@@ -6,4 +6,12 @@ def display_board(board)
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
-# code your input_to_index and move method here!
+bin
+  |–– move
+lib
+  |–– move.rb
+spec
+  |–– 01_input_to_index_spec.rb
+  |–– 02_move_spec.rb
+  |–– 03_cli_spec.rb
+  |–– spec_helper.rb
